@@ -1,0 +1,68 @@
+.Rojo{
+    background-color: red;
+    color: white;
+}
+
+.colorraro{
+    background-color:  #007667;
+    color: white;
+}
+
+.azulito{
+    background-color: #007c9c;
+    color: white;
+}
+
+.notanceleste{
+    background-color: #009ca0;
+    color: white;
+}
+
+.celeste{
+    background-color: #00b2f8;
+    color: white;
+}
+
+.morado{
+    background-color: #570076;
+    color: white;
+}
+
+.naranja{
+    background-color :#ff995e;
+    color: white;
+}
+
+.amarillo{
+    background-color: yellow;
+}
+
+.verde{
+    background-color: #6fa200;
+    color: white;
+  
+}
+
+
+.border{
+    border: black;
+    border-style: solid;
+}
+
+
+.margen{
+    margin-left: 135px;
+    margin-top: 10px    ;
+}
+
+.margen2{
+    margin-left: 26px;
+    
+}
+
+
+
+
+.espacio{
+    padding-top: 50px;
+}
